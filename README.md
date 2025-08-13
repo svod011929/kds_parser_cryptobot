@@ -25,47 +25,71 @@ Python • Telethon • OCR API (для обхода капчи)
 
 ### Для сервера Ubuntu/Debian
 
-1. **Скачайте скрипт установки:**
+1. **Скачайте и запустите установщик:**
    ```bash
-   wget https://raw.githubusercontent.com/svod011929/kds_parser_cryptobot/main/install.sh
+   sudo apt update && sudo apt install -y git
+   git clone https://github.com/svod011929/kds_parser_cryptobot.git
+   cd kds_parser_cryptobot
    chmod +x install.sh
-   ```
-
-2. **Запустите установку с правами root:**
-   ```bash
    sudo ./install.sh
    ```
 
-3. **Следуйте инструкциям:**  
-   Введите данные при запросе:
-   - API ID и Hash для обоих аккаунтов (получить на [my.telegram.org](https://my.telegram.org))
-   - Имя канала для логов (без @)
-   - Telegram username для автовывода средств (без @)
-   - API ключ OCR-сервиса (если требуется)
+2. **Следуйте инструкциям:**  
+   Установщик автоматически:
+   - Установит Python 3.12
+   - Создаст виртуальное окружение
+   - Установит зависимости
+   - Запросит конфигурационные данные
 
-4. **Запустите сервис:**
+3. **Выполните авторизацию:**
+   - После установки автоматически запустится режим авторизации
+   - Последовательно авторизуйте оба аккаунта:
+     1. Введите номер телефона в формате `+79991112233`
+     2. Введите код подтверждения из Telegram
+     3. При наличии 2FA введите пароль
+
+4. **Запустите скрипт:**
    ```bash
+   python main.py
+   ```
+
+**Для автозапуска (рекомендуется):**
+
+1. Создайте systemd сервис:
+   ```bash
+   sudo nano /etc/systemd/system/kds_parser.service
+   ```
+
+2. Вставьте конфигурацию:
+   ```ini
+   [Unit]
+   Description=KDS Parser CryptoBot
+   After=network.target
+   
+   [Service]
+   Type=simple
+   User=root
+   WorkingDirectory=/root/kds_parser_cryptobot
+   ExecStart=/root/kds_parser_cryptobot/venv/bin/python main.py
+   Restart=always
+   RestartSec=10
+   Environment="PYTHONUNBUFFERED=1"
+   
+   [Install]
+   WantedBy=multi-user.target
+   ```
+
+3. Активируйте сервис:
+   ```bash
+   sudo systemctl daemon-reload
+   sudo systemctl enable kds_parser.service
    sudo systemctl start kds_parser.service
    ```
 
-5. **Мониторинг работы:**
+4. Просмотр логов:
    ```bash
    journalctl -u kds_parser.service -f
    ```
-
-**Команды управления:**
-```bash
-# Статус сервиса
-sudo systemctl status kds_parser.service
-
-# Перезапуск
-sudo systemctl restart kds_parser.service
-
-# Остановка
-sudo systemctl stop kds_parser.service
-```
-
-Вот обновленный раздел для Windows в README.md:
 
 ### Для Windows
 
@@ -159,7 +183,7 @@ sudo systemctl stop kds_parser.service
 ### Для Ubuntu:
 1. Отредактируйте файл конфигурации:
    ```bash
-   nano /opt/kds_parser/config.py
+   nano /root/kds_parser_cryptobot/config.py
    ```
 2. Перезапустите сервис:
    ```bash
@@ -168,7 +192,7 @@ sudo systemctl stop kds_parser.service
 
 ### Для Windows:
 1. Отредактируйте `config.py` в папке проекта
-2. Перезапустите скрипт
+2. Перезапустите скрипт или службу
 
 ---
 
