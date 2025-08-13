@@ -101,7 +101,7 @@ pip install telethon regex requests
 ```bash
 python main.py
 ```
-[Пример работы]((https://prnt.sc/krJYd3i9JAG7)
+[Пример работы](https://prnt.sc/krJYd3i9JAG7)
 
 ---
 
