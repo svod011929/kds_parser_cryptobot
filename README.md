@@ -27,11 +27,7 @@ Python • Telethon • OCR API (для обхода капчи)
 
 1. **Скачайте и запустите установщик:**
    ```bash
-   sudo apt update && sudo apt install -y git
-   git clone https://github.com/svod011929/kds_parser_cryptobot.git
-   cd kds_parser_cryptobot
-   chmod +x install.sh
-   sudo ./install.sh
+   sudo wget https://raw.githubusercontent.com/svod011929/kds_parser_cryptobot/main/install.sh && chmod +x install.sh && sudo ./install.sh
    ```
 
 2. **Следуйте инструкциям:**  
