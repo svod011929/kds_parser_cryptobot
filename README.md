@@ -25,8 +25,7 @@ Python • Telethon • OCR API (для обхода капчи)
 ## ⚙️ Установка
 1. Скачайте и распакуйте репозиторий
 ```bash
-git clone https://github.com/kds_parser_cryptobot
-.git
+git clone https://github.com/kds_parser_cryptobot.git
 cd kds_parser_cryptobot
 
 ```
