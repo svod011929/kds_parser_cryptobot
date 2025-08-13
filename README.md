@@ -122,6 +122,6 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
 ✉️ `@KodoDrive`
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=svod011929&label=Просмотры+репозитория&color=blueviolet" alt="Repository views">
+  <img src="https://komarev.com/ghpvc/?username=svod011929&repo=kds_parser_cryptobot&label=Просмотры+репозитория&color=7b1fa2&style=for-the-badge&labelColor=5d4037" width="400" height="50" alt="Repository views">
 </p>
 ```
