@@ -48,6 +48,7 @@ cd kds_parser_cryptobot
 4. **Установите зависимости**:
 ```cmd
 pip install telethon regex requests
+```
 
 2. Установите зависимости:
 ```bash
