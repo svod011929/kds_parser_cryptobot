@@ -6,34 +6,30 @@
 
 ## 💻 Технологии
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 30px 0;">
 
-<div style="text-align: center; background: linear-gradient(135deg, #3776ab20, #ffde5720); border-radius: 16px; padding: 20px; width: 180px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin-bottom: 15px; filter: drop-shadow(0 2px 4px rgba(55, 118, 171, 0.3))">
+<!-- Python Card -->
+<div style="text-align: center; background: linear-gradient(135deg, #3776ab20, #ffde5720); border-radius: 16px; padding: 20px; width: 180px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" style="margin-bottom: 15px;">
   <h3 style="margin: 10px 0; color: #3776AB;">Python</h3>
   <p style="margin: 0; font-size: 0.9rem; color: #555;">Версия 3.12</p>
 </div>
 
-<div style="text-align: center; background: linear-gradient(135deg, #26a5e420, #0088cc20); border-radius: 16px; padding: 20px; width: 180px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-  <img src="https://telethon.dev/img/telethon_logo.png" width="60" style="margin-bottom: 15px; filter: drop-shadow(0 2px 4px rgba(38, 165, 228, 0.3))">
+<!-- Telethon Card -->
+<div style="text-align: center; background: linear-gradient(135deg, #26a5e420, #0088cc20); border-radius: 16px; padding: 20px; width: 180px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/LonamiWebs/Telethon/master/telethon_logo.png" width="70" style="margin-bottom: 15px;">
   <h3 style="margin: 10px 0; color: #26A5E4;">Telethon</h3>
   <p style="margin: 0; font-size: 0.9rem; color: #555;">Асинхронный API</p>
 </div>
 
-<div style="text-align: center; background: linear-gradient(135deg, #7b1fa220, #9c27b020); border-radius: 16px; padding: 20px; width: 180px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-  <img src="https://cdn-icons-png.flaticon.com/512/2098/2098402.png" width="60" style="margin-bottom: 15px; filter: drop-shadow(0 2px 4px rgba(123, 31, 162, 0.3))">
+<!-- OCR API Card -->
+<div style="text-align: center; background: linear-gradient(135deg, #7b1fa220, #9c27b020); border-radius: 16px; padding: 20px; width: 180px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://cdn-icons-png.flaticon.com/512/2098/2098402.png" width="70" style="margin-bottom: 15px;">
   <h3 style="margin: 10px 0; color: #7B1FA2;">OCR API</h3>
   <p style="margin: 0; font-size: 0.9rem; color: #555;">Распознавание капчи</p>
 </div>
 
 </div>
-
-<style>
-  div[style*="width: 180px;"]:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
-  }
-</style>
 
 ## 🔍 Описание
 Автоматический инструмент для сбора и активации Telegram-чеков с использованием двух аккаунтов для максимальной безопасности:
