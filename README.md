@@ -116,12 +116,48 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
 
 ---
 
-## 📬 Поддержка и контакты
-По вопросам сотрудничества и технической поддержки:  
-[![Telegram Contact](https://img.shields.io/badge/Telegram-@KodoDrive-blue?logo=telegram)](https://t.me/KodoDrive)  
-✉️ `@KodoDrive`
+## 🌟 Поддержка и сотрудничество
+
+<div align="center">
+  
+### ✨ Свяжитесь со мной
+
+[![Telegram Contact](https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KodoDrive)
+[![Email](https://img.shields.io/badge/Email-business@example.com-7B68EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bussines@kododrive-devl.ru)
+
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://api.iconify.design/fluent-emoji-flat:sparkles.svg?width=60&height=60" alt="Sparkles">
+        <br><strong>Поддержка</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://api.iconify.design/fluent-emoji-flat:briefcase.svg?width=60&height=60" alt="Briefcase">
+        <br><strong>Сотрудничество</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://api.iconify.design/fluent-emoji-flat:gear.svg?width=60&height=60" alt="Gear">
+        <br><strong>Настройка</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin-top: 20px; font-size: 1.2rem;">
+
+📬 **Telegram:** [@KodoDrive](https://t.me/KodoDrive)  
+⏳ Отвечаю в течение 24 часов  
+💼 Деловые предложения: bussines@kododrive-devl.ru
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B1FA2&center=true&vCenter=true&width=500&lines=%D0%93%D0%BE%D1%82%D0%BE%D0%B2+%D0%BA+%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83%21;%D0%9F%D0%B8%D1%88%D0%B8+%D0%B2+Telegram+%F0%9F%93%A7;%D0%9E%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%8E+%D0%B2+%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+24+%D1%87%D0%B0%D1%81%D0%BE%D0%B2+%F0%9F%95%92" alt="Typing SVG">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=svod011929&repo=kds_parser_cryptobot&label=Просмотры+репозитория&color=7b1fa2&style=for-the-badge&labelColor=5d4037" width="400" height="50" alt="Repository views">
 </p>
-```
