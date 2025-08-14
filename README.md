@@ -1,5 +1,8 @@
 # 🚀 Автопарсер Telegram-чеков CryptoBot на Python + Telethon
-
+![GitHub top language](https://img.shields.io/github/languages/top/svod011929/kds_parser_cryptobot)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/svod011929/kds_parser_cryptobot/total)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/svod011929/kds_parser_cryptobot?label=commits)
+![GitHub Repo stars](https://img.shields.io/github/stars/svod011929/kds_parser_cryptobot)
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd1dXQ5a2J2dHl0aHVhcnJ5dGJ0d3Zjd3Ntbm5zcHl1bDZtb2FqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKvGtqHwQNPS0s/giphy.gif" width="400" alt="Crypto Bot Animation">
 </p>
