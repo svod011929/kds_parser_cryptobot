@@ -189,3 +189,42 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=svod011929&repo=kds_parser_cryptobot&label=Просмотры+репозитория&color=7b1fa2&style=for-the-badge&labelColor=5d4037" width="400" height="50" alt="Repository views">
 </p>
+
+<!-- kododrive-projects-block -->
+
+## Проекты KodoDrive
+
+Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [сайт](https://kododrive.ru) · [Telegram](https://t.me/KodoDrive)
+
+### VPN и инфраструктура
+
+- [BuryatVPN — VPN-сервис + Telegram](https://github.com/svod011929/buryatvpn)
+- [VPN Server Installer — VLESS + TLS](https://github.com/svod011929/vpn-server-installer)
+- [3X-UI Auto Installer](https://github.com/svod011929/3x-ui-auto-installer)
+- [AWG Bot Installer — AmneziaWG](https://github.com/svod011929/awg-bot-installer)
+- [RemnaShop Installer](https://github.com/svod011929/remnashop-installer)
+- [VPN Auto Installer — панели](https://github.com/svod011929/vpn-auto-installer)
+- [VPNHubBot — Telegram VPN-бот](https://github.com/svod011929/VPNHubBot)
+
+### Telegram и автоматизация
+
+- [KDS Server Panel — SSH из Telegram](https://github.com/svod011929/KDS_Server_Panel)
+- [Telegram → VK Poster](https://github.com/svod011929/telegram-to-vk-poster)
+- **KDS Parser CryptoBot** ← ты здесь
+- [Auction Bot](https://github.com/svod011929/auction-bot)
+- [Invest Bot](https://github.com/svod011929/invest-bot)
+- [Crypto Check Bot](https://github.com/svod011929/crypto-check-bot)
+- [KodoRefStarsBot](https://github.com/svod011929/KodoRefStarsBot)
+
+### Магазины и финансы
+
+- [KodoCashFlow](https://github.com/svod011929/KodoCashFlow)
+- [Telegram Crypto Shop](https://github.com/svod011929/telegram-crypto-shop)
+- [TalkProfit](https://github.com/svod011929/talkprofit)
+
+### Сайты
+
+- [KodoDrive Portfolio](https://github.com/svod011929/kododrive-portfolio)
+- [kododrive.github.io](https://github.com/svod011929/kododrive.github.io)
+
+<!-- /kododrive-projects-block -->
