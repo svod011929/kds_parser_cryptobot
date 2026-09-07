@@ -1,3 +1,25 @@
+<!-- kododrive-readme-style -->
+
+<div align="center">
+  <img src="./assets/readme-header.svg" width="100%" alt="kds_parser_cryptobot" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/readme-meta.svg" width="100%" alt="meta" />
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/svod011929/kds_parser_cryptobot"><img src="https://img.shields.io/badge/GitHub-kds_parser_cryptobot-0D1117?style=for-the-badge&logo=github&logoColor=26A5E4" alt="repo" /></a>
+  <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
+  <a href="https://github.com/svod011929"><img src="https://img.shields.io/badge/Author-svod011929-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="author" /></a>
+</p>
+
+<!-- /kododrive-readme-style -->
+
 # 🚀 Автопарсер Telegram-чеков CryptoBot на Python + Telethon
 ![GitHub top language](https://img.shields.io/github/languages/top/svod011929/kds_parser_cryptobot)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/svod011929/kds_parser_cryptobot/total)
@@ -189,6 +211,8 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=svod011929&repo=kds_parser_cryptobot&label=Просмотры+репозитория&color=7b1fa2&style=for-the-badge&labelColor=5d4037" width="400" height="50" alt="Repository views">
 </p>
+
+---
 
 <!-- kododrive-projects-block -->
 
