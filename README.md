@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/svod011929/kds_parser_cryptobot"><img src="https://img.shields.io/badge/GitHub-kds_parser_cryptobot-0D1117?style=for-the-badge&logo=github&logoColor=26A5E4" alt="repo" /></a>
-  <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
+  <a href="https://t.me/gveom"><img src="https://img.shields.io/badge/Telegram-@gveom-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
   <a href="https://github.com/svod011929"><img src="https://img.shields.io/badge/Author-svod011929-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="author" /></a>
 </p>
 
@@ -172,8 +172,8 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
   
 ### ✨ Свяжитесь со мной
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KodoDrive)
-[![Email](https://img.shields.io/badge/Email-business@example.com-7B68EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bussines@kododrive-devl.ru)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-@gveom-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gveom)
+[![Email](https://img.shields.io/badge/Email-antihype2205@yandex.ru-7B68EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antihype2205@yandex.ru)
 
 </div>
 
@@ -198,9 +198,9 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
 
 <div align="center" style="margin-top: 20px; font-size: 1.2rem;">
 
-📬 **Telegram:** [@KodoDrive](https://t.me/KodoDrive)  
+📬 **Telegram:** [@gveom](https://t.me/gveom)  
 ⏳ Отвечаю в течение 24 часов  
-💼 Деловые предложения: bussines@kododrive-devl.ru
+💼 Деловые предложения: antihype2205@yandex.ru
 
 </div>
 
@@ -218,7 +218,7 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
 
 ## Проекты KodoDrive
 
-Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [Telegram](https://t.me/KodoDrive)
+Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [Telegram](https://t.me/gveom)
 
 ### VPN и инфраструктура
 
