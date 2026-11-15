@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/svod011929/kds_parser_cryptobot"><img src="https://img.shields.io/badge/GitHub-kds_parser_cryptobot-0D1117?style=for-the-badge&logo=github&logoColor=26A5E4" alt="repo" /></a>
-  <a href="https://t.me/gveom"><img src="https://img.shields.io/badge/Telegram-@gveom-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
+  <a href="https://t.me/DDDDEVELOPER"><img src="https://img.shields.io/badge/Telegram-@DDDDEVELOPER-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
   <a href="https://github.com/svod011929"><img src="https://img.shields.io/badge/Author-svod011929-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="author" /></a>
 </p>
 
@@ -172,7 +172,7 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
   
 ### ✨ Свяжитесь со мной
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-@gveom-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gveom)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-@DDDDEVELOPER-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DDDDEVELOPER)
 [![Email](https://img.shields.io/badge/Email-antihype2205@yandex.ru-7B68EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antihype2205@yandex.ru)
 
 </div>
@@ -198,7 +198,7 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
 
 <div align="center" style="margin-top: 20px; font-size: 1.2rem;">
 
-📬 **Telegram:** [@gveom](https://t.me/gveom)  
+📬 **Telegram:** [@DDDDEVELOPER](https://t.me/DDDDEVELOPER)  
 ⏳ Отвечаю в течение 24 часов  
 💼 Деловые предложения: antihype2205@yandex.ru
 
@@ -218,7 +218,7 @@ ocr_api_key = '123abc456def789ghi'  # Ваш OCR API ключ
 
 ## Проекты KodoDrive
 
-Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [Telegram](https://t.me/gveom)
+Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [Telegram](https://t.me/DDDDEVELOPER)
 
 ### VPN и инфраструктура
 
